@@ -12,7 +12,7 @@ print(str(norm.cdf(2.52, 0, 1))[:6:])
 print(str(norm.cdf(2.14, 0, 1)-norm.cdf(-1.06, 0, 1))[:6:])
 
 # 1c
-# P(z ≤ -0.72
+# P(z ≤ -0.72)
 
 print(str(norm.cdf(-0.72, 0, 1))[:6:])
 
